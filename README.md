@@ -1,23 +1,29 @@
-# eccomerse-ui
+# Eccomerce UI Back 📠📊🗂
 
-## Project setup
-```
+# From || Eldar Jumashevv
+# My Social Media Network 👇🏻 <br/>
+<h2> <a href="https://www.instagram.com/eldar_jumashevv" target="_blank">My Instagram</a></h2>
+<h2> <a href="https://www.facebook.com/eldoradojumashevv" target="_blank">My Facebook</a></h2>
+<h2> <a href="https://twitter.com/jumashevv996" target="_blank">My Twitter</a></h2>
+<h2> <a href="https://www.linkedin.com/in/eldar-jumashevv-51a792259/" target="_blank">My LinkedIn</a>  </h2>
+
+<h1> See other projects..🗂️ <br/> 
+acc: <a href="https://github.com/eldorado-22">@eldorado-22</a>
+<hr/>
+# Project Setup <br/>  
+
+```sh
 npm install
 ```
+### Compile and Hot-Reload for Development
 
-### Compiles and hot-reloads for development
-```
-npm run serve
+```sh
+npm run dev
 ```
 
-### Compiles and minifies for production
-```
+### Compile and Minify for Production
+```sh
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
