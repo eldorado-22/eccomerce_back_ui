@@ -2,11 +2,11 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <h3 class="pt-3">Our Category</h3>
+                <h3 class="pt-3">Our Categories</h3>
             </div>
         </div>
         <div class="row">
-           
+           <h1>Hello</h1>
         </div>
     </div>
 </template>
